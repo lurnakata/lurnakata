@@ -1,16 +1,14 @@
-### Hi there 👋
+# Aloha! ⛱️
 
-<!--
-**lurnakata/lurnakata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📘 System Analysis and Development Student at **Uniftec**.
+💚 Intern at **Auxiliadora Predial**.
+👩‍💻 Growdever at **Growdev**.
+🔮 Future Fullstack Web Developer.
+ 📍  Living in Porto Alegre/RS
 
-Here are some ideas to get you started:
+> “All our **dreams** can come true. If we have the **courage** to pursue them.”  – Walt Disney –
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Reach me out 👇🏻
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucimara-rios-nakata-15688177/)](https://www.linkedin.com/in/lucimara-rios-nakata-15688177/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/lucimaranakata/)](https://www.instagram.com/lucimaranakata/) 
+
+
